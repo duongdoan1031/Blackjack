@@ -1,6 +1,6 @@
 #pragma once
 
-#include "Hand.h"
+#include "Card.h"
 #include <iostream>
 
 class Player
